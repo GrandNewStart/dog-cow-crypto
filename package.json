@@ -1,0 +1,13 @@
+{
+  "name": "dog-cow-crypto",
+  "version": "1.0.0",
+  "main": "encryption.ts",
+  "scripts": {},
+  "author": "Jinwoo, Hwangbo",
+  "license": "UNLICENSED",
+  "description": "Crypto test for node.js + typescript",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.3"
+  }
+}
